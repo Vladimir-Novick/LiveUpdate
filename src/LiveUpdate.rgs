@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		{7B9C8940-4801-41C4-8AF0-4CFFD2E1E545} = s 'LiveUpdate'
+		'LiveUpdate.EXE'
+		{
+			val AppID = s {7B9C8940-4801-41C4-8AF0-4CFFD2E1E545}
+		}
+	}
+}

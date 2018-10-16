@@ -1,0 +1,20 @@
+// LiveUpdate.idl : IDL source for LiveUpdate.dll
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (LiveUpdate.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(0A57A16B-0814-4CAC-B828-1E68637C5CED),
+	version(1.0),
+	helpstring("LiveUpdate 1.0 Type Library")
+]
+library LIVEUPDATELib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+};
