@@ -1,8 +1,6 @@
 # LiveUpdate
 
-Program for update metadata information.
-
-Software Update Component Properties dialog box, which can be accessed by using data update options.
+LiveUpdate is a utility developed by Vladimir Novick that downloads and installs updates and software patches. LiveUpdate can  apply updates for a particular version of you program.
 
 
 ## Copyright (C) 2004 by Vladimir Novick 
